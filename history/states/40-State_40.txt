@@ -1,0 +1,16 @@
+
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		264 1025 1102 1512 1926 1968 2368 2720 3176 3330 3817 3967 4126 4399 5120 5782 9723 9910 
+	}
+		history={
+		owner = NAV
+		add_core_of = NAV
+
+	}
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

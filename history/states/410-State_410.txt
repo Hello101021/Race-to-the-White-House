@@ -1,0 +1,18 @@
+
+state={
+	id=410
+	name="STATE_410"
+	provinces={
+		90 195 336 1094 1138 1730 3299 3670 3782 4982 5078 9220 9307 9349 9393 19532 
+	}
+		history={
+		owner = DES
+		add_core_of = DES
+
+	}
+ 
+ 
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

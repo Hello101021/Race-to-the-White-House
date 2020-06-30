@@ -1,0 +1,16 @@
+
+state={
+	id=337
+	name="STATE_337"
+	provinces={
+		878 1657 1708 2046 2631 3224 3776 4374 4639 6167 10648 
+	}
+		history={
+		owner = MEX
+		add_core_of = MEX
+
+	}
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

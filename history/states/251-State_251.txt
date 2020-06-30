@@ -1,0 +1,15 @@
+state={
+	id=251
+	name="STATE_251"
+	provinces={
+		4238 
+	}
+					history={
+		owner = OKL
+		add_core_of = OKL
+
+	}
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

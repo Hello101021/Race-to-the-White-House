@@ -1,5 +1,5 @@
-name="Race to the White HOuse"
-path="mod/Race to the White HOuse"
+name="Race to the White House"
+path="mod/Race-to-the-White-House"
 replace_path="common/ai_peace"
 replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"

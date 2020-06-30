@@ -1,0 +1,15 @@
+
+state={
+	id=487
+	name="STATE_486"
+	provinces={
+		2659 2672 3102 3304 4898 5190 9315 9465 9486 9517 9572 1470
+	}
+		history={
+		owner = DSR
+		add_core_of = DSR
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

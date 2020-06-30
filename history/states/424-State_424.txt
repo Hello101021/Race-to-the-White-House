@@ -1,0 +1,16 @@
+
+state={
+	id=424
+	name="STATE_424"
+	provinces={
+		84 735 752 906 1023 1040 1095 1305 1392 1564 1642 1982 2077 2116 2141 2249 2411 2692 3106 3416 3546 3957 4052 4098 4347 4828 5147 5453 5938 8849s 8861 8809 8897 8958 8964 9037 9157 
+	}
+		history={
+		owner = REP
+		add_core_of = REP
+
+	}
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

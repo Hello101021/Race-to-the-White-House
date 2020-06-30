@@ -1,0 +1,18 @@
+
+state={
+	id=352
+	name="STATE_352"
+	provinces={
+		222 1198 1587 1689 1713 3259 10176 10285 
+	}
+	history={
+		owner = ARZ
+		add_core_of = ARZ
+
+	}
+ 
+ 
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

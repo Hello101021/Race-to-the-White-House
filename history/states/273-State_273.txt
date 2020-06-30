@@ -1,0 +1,16 @@
+
+state={
+	id=273
+	name="STATE_273"
+	provinces={
+		1001 1237 1813 2314 2975 3116 3727 3829 3960 4207 4512 4786 5029 5220 5818 5991 6130 6219 8904 8935 8952 9003 9064 9082 
+	}
+	history={
+		owner = DRA
+		add_core_of = DRA
+
+	}
+ state_category=town 
+ manpower=1000
+	buildings_max_level_factor=1.000
+}

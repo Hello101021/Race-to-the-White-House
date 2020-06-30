@@ -1,0 +1,15 @@
+
+state={
+	id=483
+	name="STATE_483"
+	provinces={
+		224 799 2609 3949 4415 4866 5339 6169 8728 
+	}
+		history={
+		owner = REP
+		add_core_of = REP
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
